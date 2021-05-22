@@ -1,7 +1,7 @@
 Trackingmore-CSHARP
 =================
 
-The PHP SDK of Trackingmore API
+The CSHARP SDK of Trackingmore API
 ## Official document
 
 [Document](https://www.trackingmore.com/v3/api-index)
